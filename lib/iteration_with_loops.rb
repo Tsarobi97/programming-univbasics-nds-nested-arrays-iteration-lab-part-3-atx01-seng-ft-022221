@@ -12,6 +12,8 @@ while count < mixed_data_1.length do
     innercount += 1
   end 
   count += 1
+ end
+puts sum 
 end
-puts sum
+
   
