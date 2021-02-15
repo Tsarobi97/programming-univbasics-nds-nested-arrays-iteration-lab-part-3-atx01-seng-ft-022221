@@ -7,7 +7,7 @@ while count < src.length do
   innercount = 0
   while innercount < src[count].length do
     if src[count][innercount].is_a?(String)
-      sum = sum + src[count][innercount]
+      sum = sum + src[count][innercount] + " "
     end
     innercount += 1
   end 
