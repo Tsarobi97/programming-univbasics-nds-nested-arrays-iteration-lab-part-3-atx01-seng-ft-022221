@@ -13,7 +13,7 @@ while count < mixed_data_1.length do
   end 
   count += 1
  end
-puts sum 
+sum 
 end
 
   
